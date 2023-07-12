@@ -1,0 +1,26 @@
+{
+  "name": "basicbot",
+  "version": "1.0.0",
+  "description": "A basic bot for a application task",
+  "main": "main.js",
+  "scripts": {
+    "test": "/help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylan0356/BasicBot.git"
+  },
+  "author": "Dylan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylan0356/BasicBot/issues"
+  },
+  "homepage": "https://github.com/dylan0356/BasicBot#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "sequelize": "^6.32.1",
+    "sqlite3": "^5.1.6"
+  }
+}
