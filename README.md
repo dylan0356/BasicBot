@@ -1,7 +1,7 @@
 # BasicBot
 A basic discord bot built for a application task
 
-##Setup
+## Setup
 Put your discord token in .env
 Fill out config
 ```
