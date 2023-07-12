@@ -1,6 +1,16 @@
 # BasicBot
 A basic discord bot built for a application task
 
+##Setup
+Put your discord token in .env
+Fill out config
+```
+npm i
+node dbInit.js
+node deploy-commands.js
+node .
+```
+
 Commands:
 [+] add-fortune.js
 [+] coinflip.js
